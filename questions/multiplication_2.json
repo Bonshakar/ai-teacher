@@ -1,0 +1,11 @@
+[
+  {"question": "2×1 は？", "answer": "2", "hint": "1が2つあると考えてみよう"},
+  {"question": "2×2 は？", "answer": "4", "hint": "2を2回足すと？"},
+  {"question": "2×3 は？", "answer": "6", "hint": "2+2+2 にしてみよう"},
+  {"question": "2×4 は？", "answer": "8", "hint": "2を4つ合わせてごらん"},
+  {"question": "2×5 は？", "answer": "10", "hint": "2を5回くりかえすと？"},
+  {"question": "2×6 は？", "answer": "12", "hint": "2×5 より2だけ多いよ"},
+  {"question": "2×7 は？", "answer": "14", "hint": "2×6 に 2 を足すと？"},
+  {"question": "2×8 は？", "answer": "16", "hint": "2を8個、数えてみよう"},
+  {"question": "2×9 は？", "answer": "18", "hint": "2×8 にもう1つ足すと？"}
+]
